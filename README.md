@@ -2,7 +2,7 @@ Facebook_Animate_WK4
 ====================
 Facebook Animate Homework
 
-Hours required to complete: ~9-10
+Hours required to complete: ~9-10<br>
 Note: Having trouble with the sizing frame at the end but will edit when solution is complete
 
 Goals:
